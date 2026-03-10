@@ -1,0 +1,2 @@
+# jobwizard
+SLURM Script Wizard
